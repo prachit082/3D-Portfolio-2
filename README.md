@@ -11,3 +11,5 @@ Personal Portfolio Website designed using ThreeJS
 
 1. `npm install` to install dependencies.
 2. `npm run dev` to start the development server.
+
+If you like this, then feel free to give it a star.⭐
